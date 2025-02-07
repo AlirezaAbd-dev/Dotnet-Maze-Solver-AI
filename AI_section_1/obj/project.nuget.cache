@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmhzywvGeBM=",
+  "success": true,
+  "projectFilePath": "E:\\JavaScript Practice\\C#\\AI-section-1\\AI_section_1\\AI_section_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\libtorch-cpu-win-x64\\2.2.1.1\\libtorch-cpu-win-x64.2.2.1.1.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\sharpziplib\\1.4.0\\sharpziplib.1.4.0.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Ideapad 5\\.nuget\\packages\\torchsharp\\0.102.4\\torchsharp.0.102.4.nupkg.sha512"
+  ],
+  "logs": []
+}
